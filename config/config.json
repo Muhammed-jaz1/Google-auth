@@ -1,0 +1,17 @@
+{
+    "local": {
+        "database": {
+            "HOST": "localhost",
+            "USER": "root",
+            "PASSWORD": "password",
+            "DB": "spericorn",
+            "dialect": "mysql"
+           
+        },
+        "server": {
+            "host": "localhost",
+            "port": "5001"
+        }
+    }
+}
+
